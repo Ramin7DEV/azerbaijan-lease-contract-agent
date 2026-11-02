@@ -1,0 +1,183 @@
+{
+ "emlak_novu": "qeyri-yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "Caspian Towers LLC, TIN 1700111222",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "Brightline Consulting LLC, TIN 1800333444",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "28 Nizami Street, Sabail district, Baku, 95 sq.m, office",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "AZN 2,500 including VAT, payable in advance by the 1st day of each month",
+   "bend_no": "3.1"
+  },
+  "teminat": {
+   "deyer": "five months' rent",
+   "bend_no": "3.2"
+  },
+  "muddet": {
+   "deyer": "2 years",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "Landlord may terminate at any time by giving 5 days' notice",
+   "bend_no": "5.1"
+  },
+  "baslangic_tarixi": "2026-11-01",
+  "bitme_tarixi": "2028-10-31",
+  "odenis_gunu": 1
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": true,
+   "bend_no": "1.2"
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": true,
+   "bend_no": "4.1"
+  },
+  {
+   "movzu": "Təmir",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.1"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Fors-major",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": true,
+   "bend_no": "6.1"
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "birterefli",
+   "bend_no": "3.2",
+   "risk": "orta",
+   "basliq": "Həddindən artıq təminat məbləği",
+   "madde_no": "688.2",
+   "izah": "Təminat 5 aylıq haqqla müəyyən edilib, standart qayda isə 2 aylıqdır. Həmçinin faizsiz olması İcarəçinin ziyanınadır.",
+   "teklif": "The Tenant shall pay a security deposit equal to two months' rent. The Landlord shall keep the deposit in a separate bank account with interest, and such interest shall belong to the Tenant.",
+   "guzest": "The Tenant shall pay a security deposit equal to three months' rent. The deposit shall be returned to the Tenant upon termination of the Agreement.",
+   "arqument": "Standard market practice and Article 688.2 of the Civil Code suggest a limit of two months' rent for security deposits."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "3.3",
+   "risk": "kritik",
+   "basliq": "İcarə haqqının sərbəst artırılması",
+   "madde_no": null,
+   "izah": "İcarəyə verənə haqqı istənilən vaxt və tək tərəfli şəkildə artırmaq hüququ verilir, bu da İcarəçinin maliyyə planlamasını imkansız edir.",
+   "teklif": "",
+   "guzest": "The Landlord may increase the rent once per calendar year, provided that such increase does not exceed 10% of the current rent and is notified to the Tenant 30 days in advance.",
+   "arqument": "Unilateral and unlimited rent increases are unfair and create an unstable business environment for the Tenant."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.2",
+   "risk": "kritik",
+   "basliq": "Qüsurlara görə məsuliyyətin istisna edilməsi",
+   "madde_no": "677.4",
+   "izah": "Qanun kirayəyə verənin qüsurları bilə-bilə gizlətməsi halında onun məsuliyyətini azaldan şərtlərin qüvvəsiz olduğunu müəyyən edir.",
+   "teklif": "The Landlord shall ensure the Premises are fit for the intended use. The Landlord remains liable for any defects of the Premises in accordance with the Civil Code of the Republic of Azerbaijan.",
+   "guzest": "",
+   "arqument": "Under Article 677.4 of the Civil Code, any agreement exempting the Landlord from liability for defects he intentionally concealed is void."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.1",
+   "risk": "kritik",
+   "basliq": "Qısa bildirişlə ləğv hüququ",
+   "madde_no": "691.1.3",
+   "izah": "5 günlük bildiriş müddəti çox qısadır və İcarəçini qəfil köçmə riski ilə üz-üzə qoyur.",
+   "teklif": "Either party may terminate this Agreement by giving the other party 30 days' prior written notice.",
+   "guzest": "The Landlord may terminate this Agreement by giving the Tenant 15 days' prior written notice.",
+   "arqument": "A 5-day notice period is insufficient for a business to relocate and contradicts the spirit of stable commercial leases."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.2",
+   "risk": "kritik",
+   "basliq": "Həddindən artıq cərimə",
+   "madde_no": null,
+   "izah": "Müqavilənin vaxtından əvvəl ləğv edilməsi halında bütün qalan müddətin haqqını ödəmək tələbi qanunsuz dərəcədə ağır cərimədir.",
+   "teklif": "",
+   "guzest": "If the Tenant terminates this Agreement early, the Tenant shall pay a penalty equal to one month's rent.",
+   "arqument": "Requiring payment for the entire remaining term as a penalty is disproportionate and constitutes an unfair penalty clause."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.3",
+   "risk": "orta",
+   "basliq": "Satış zamanı avtomatik xitam",
+   "madde_no": "699.1",
+   "izah": "Qanuna görə, əmlak satıldıqda yeni mülkiyyətçi müqavilənin tərəfi olur. Avtomatik xitam İcarəçinin hüquqlarını məhdudlaşdırır.",
+   "teklif": "In the event of sale of the Premises, the new owner shall assume all rights and obligations of the Landlord under this Agreement in accordance with Article 699.1 of the Civil Code.",
+   "guzest": "",
+   "arqument": "According to Article 699.1 of the Civil Code, the transfer of ownership does not automatically terminate the lease agreement."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "orta",
+   "basliq": "Təmir öhdəliklərinin yoxluğu",
+   "madde_no": "680",
+   "izah": "Cari və əsaslı təmirin kimin tərəfindən həyata keçiriləcəyi müəyyən edilməyib, bu da gələcəkdə mübahisə yaradacaq.",
+   "teklif": "The Landlord shall be responsible for major repairs and the structural integrity of the Premises. The Tenant shall be responsible for current maintenance and minor repairs resulting from ordinary use.",
+   "guzest": "",
+   "arqument": "Clear allocation of repair obligations is essential to avoid disputes over maintenance costs."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "aşağı",
+   "basliq": "Fors-major bəndinin yoxluğu",
+   "madde_no": null,
+   "izah": "Gözlənilməz hallar zamanı tərəflərin məsuliyyətini tənzimləyən bənd yoxdur.",
+   "teklif": "Neither party shall be liable for failure to perform its obligations if such failure is caused by a force majeure event (natural disasters, war, government restrictions), provided the other party is notified within 7 days.",
+   "guzest": "",
+   "arqument": "A force majeure clause is a standard legal protection for both parties in long-term commercial contracts."
+  }
+ ]
+}

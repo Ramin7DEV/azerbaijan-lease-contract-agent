@@ -1,0 +1,106 @@
+{
+ "emlak_novu": "yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "Əliyev Rəşad Kamal oğlu, ŞV AZE 11223344",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "Quliyeva Leyla Arif qızı, ŞV AZE 44332211",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "Bakı şəhəri, Xətai rayonu, Babək prospekti 22, mənzil 41, 54 kv.m, yaşayış",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "700 manat, hər ayın 5-dək",
+   "bend_no": "3.1, 3.2"
+  },
+  "teminat": {
+   "deyer": "700 manat",
+   "bend_no": "3.3"
+  },
+  "muddet": {
+   "deyer": "1 il",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "Mülki Məcəllədə nəzərdə tutulmuş əsaslarla və qaydada, yazılı bildirişlə",
+   "bend_no": "5.2"
+  },
+  "baslangic_tarixi": "2026-10-01",
+  "bitme_tarixi": "2027-09-30",
+  "odenis_gunu": 5
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": true,
+   "bend_no": "1.3"
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": true,
+   "bend_no": "4.1"
+  },
+  {
+   "movzu": "Təmir",
+   "var": true,
+   "bend_no": "4.2"
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.2"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": true,
+   "bend_no": "5.3"
+  },
+  {
+   "movzu": "Fors-major",
+   "var": true,
+   "bend_no": "6.1"
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": true,
+   "bend_no": "7.1"
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "birterefli",
+   "bend_no": "4.5",
+   "risk": "orta",
+   "basliq": "İcarəyə verənin mənzilə girişi",
+   "madde_no": null,
+   "izah": "Bənd İcarəyə verənə mənzilə daxil olmaq üçün çox geniş və qeyri-müəyyən hüquq verir, bu isə İcarəçinin şəxsi həyatının toxunulmazlığını və rahatlığını poza bilər.",
+   "teklif": "İcarəyə verən mənzilə yalnız İcarəçinin razılığı ilə, təcili halları istisna etməklə, ayda bir dəfə və razılaşdırılmış vaxtda daxil ola bilər.",
+   "guzest": "İcarəyə verən mənzilə yalnız İcarəçini ən azı 3 gün əvvəl xəbərdar etməklə və razılaşdırılmış vaxtda, ayda bir dəfə daxil ola bilər.",
+   "arqument": "Mənzil İcarəçinin müvəqqəti yaşayış yeri olduğu üçün onun məxfiliyinin və rahatlığının qorunması vacibdir."
+  }
+ ]
+}

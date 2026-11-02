@@ -1,0 +1,172 @@
+{
+ "emlak_novu": "qeyri-yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "\"Plaza Test\" MMC, VÖEN 1400123456",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "\"Novatek Solutions\" MMC, VÖEN 1500654321",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "Bakı şəhəri, Yasamal rayonu, Ş. Qasımova küçəsi 12, 120 kv.m, ofis",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "3600 manat, hər ayın 1-dək qabaqcadan",
+   "bend_no": "3.1, 3.2"
+  },
+  "teminat": {
+   "deyer": "4 aylıq icarə haqqı",
+   "bend_no": "3.3"
+  },
+  "muddet": {
+   "deyer": "3 il",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "İcarəyə verən 7 gün əvvəl bildirişlə istənilən vaxt ləğv edə bilər",
+   "bend_no": "5.1"
+  },
+  "baslangic_tarixi": "2026-10-01",
+  "bitme_tarixi": "2029-09-30",
+  "odenis_gunu": 1
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": true,
+   "bend_no": "1.2"
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": true,
+   "bend_no": "4.1"
+  },
+  {
+   "movzu": "Təmir",
+   "var": true,
+   "bend_no": "4.2"
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.1"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": true,
+   "bend_no": "4.5"
+  },
+  {
+   "movzu": "Fors-major",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": true,
+   "bend_no": "6.1"
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "birterefli",
+   "bend_no": "3.3",
+   "risk": "orta",
+   "basliq": "Həddindən artıq təminat məbləği",
+   "madde_no": "688.2",
+   "izah": "Təminat məbləği 4 aylıq icarə haqqı təyin edilib, bu isə standart 2 aylıq normadan iki dəfə çoxdur və İcarəçinin vəsaitlərini əKsilsiz dondurur.",
+   "teklif": "İcarəçi 2 (iki) aylıq icarə haqqı məbləğində təminat ödəyir. Təminat İcarəyə verən tərəfindən bankda ayrıca, faizlə saxlanılır və müqavilə bitdikdə faizləri ilə birlikdə İcarəçiyə qaytarılır.",
+   "guzest": "İcarəçi 2 (iki) aylıq icarə haqqı məbləğində təminat ödəyir. Təminat müqavilə bitdikdə faizsiz qaytarılır.",
+   "arqument": "Mülki Məcəllənin 688.2-ci maddəsində təminatın 2 aylıq haqqdan çox olmaması standart qayda kimi nəzərdə tutulub."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "3.4",
+   "risk": "kritik",
+   "basliq": "İcarə haqqının qeyri-müəyyən artımı",
+   "madde_no": null,
+   "izah": "İcarəyə verənə haqqı 'öz mülahizəsinə görə' və 'istənilən məbləğdə' artırmaq hüququ verilib. Bu, İcarəçini maliyyə baxımından tamamilə asılı və qeyri-müəyyən risk altında qoyur.",
+   "teklif": "",
+   "guzest": "İcarə haqqının artımı tərəflərin qarşılıqlı razılığı ilə və ya rəsmi inflyasiya göstəriciləri əsasında ildə bir dəfə maksimum 10% məbləğdə həyata keçirilə bilər.",
+   "arqument": "İcarə haqqının tək tərəfli və limitsiz artırılması müqavilənin balansını pozur və biznesin planlaşdırılmasını qeyri-mümkün edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.3",
+   "risk": "orta",
+   "basliq": "Qüsurlara görə məsuliyyətin istisna edilməsi",
+   "madde_no": "677.4",
+   "izah": "Bənd İcarəyə verəni bilə-bilə gizlətdiyi qüsurlara görə məsuliyyətdən azad edir, bu isə imperativ normaya ziddir və qüvvəsizdir.",
+   "teklif": "İcarəyə verən 676-cı maddəyə uyğun olaraq ofisin istifadəyə yararlı vəziyyətdə olması üçün məsuliyyət daşıyır. İcarəyə verən qüsurları bilə-bilə gizlətdiyi hallarda Mülki Məcəllənin 677.4-cü maddəsinə uyğun məsuliyyət daşıyır.",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 677.4-cü maddəsinə görə, kirayəyə verəni qəsdən gizlətdiyi qüsurlara görə məsuliyyətdən azad edən razılaşmanın qüvvəsi yoxdur."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.1",
+   "risk": "kritik",
+   "basliq": "Səbəbsiz və qısa müddətli ləğv hüququ",
+   "madde_no": null,
+   "izah": "İcarəyə verənə 7 gün bildirişlə istənilən vaxt müqaviləni ləğv etmək hüququ verilib. Bu, 3 illik müqavilənin mənasını itirir və İcarəçini hər an ofisdən çıxarılma riski ilə üz-üzə qoyur.",
+   "teklif": "Müqavilə tərəflərindən hər biri 3 (üç) ay əvvəl yazılı bildiriş verməklə müqaviləni vaxtından əvvəl ləğv edə bilər.",
+   "guzest": "İcarəyə verən yalnız əsaslı səbəblər olduğu halda 30 gün əvvəl bildiriş verməklə müqaviləni ləğv edə bilər.",
+   "arqument": "Müqavilənin 3 illik müddətə bağlanması tərəflərin sabitliyini təmin etməlidir; 7 günlük bildiriş biznes fəaliyyəti üçün qəbulolunmazdır."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.2",
+   "risk": "kritik",
+   "basliq": "Həddindən artıq cərimə şərti",
+   "madde_no": null,
+   "izah": "İcarəçinin vaxtından əvvəl çıxması halında bütün qalan müddətin haqqını ödəməsi tələb olunur. Bu, qanunsuz dərəcədə ağır cərimədir və İcarəçini müqaviləyə 'məhkum' edir.",
+   "teklif": "",
+   "guzest": "İcarəçi müqaviləni vaxtından əvvəl ləğv etdikdə, 2 aylıq icarə haqqı məbləğində cərimə ödəyir və 3 ay əvvəl bildiriş verir.",
+   "arqument": "Qalan bütün müddətin ödənilməsi tələbi mütənasiblik prinsipinə ziddir və İcarəçinin mülkiyyət hüququna və sərbəstliyinə ciddi ziyan vurur."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.3",
+   "risk": "orta",
+   "basliq": "Satış zamanı müqavilənin xitamı",
+   "madde_no": "699.1",
+   "izah": "Bənd əmlak satıldıqda müqavilənin bitəcəyini deyir. Lakin qanun üzrə yeni mülkiyyətçi müqavilənin tərəfi olur və icarə davam etməlidir.",
+   "teklif": "Əmlak üçüncü şəxsə satıldıqda, Mülki Məcəllənin 699.1-ci maddəsinə uyğun olaraq, yeni mülkiyyətçi müqavilənin tərəfi olur və icarə münasibətləri mövcud şərtlərlə davam edir.",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 699.1-ci maddəsi əmlakın mülkiyyətinin keçməsindən asılı olmayaraq icarə müqaviləsinin davam etməsini nəzərdə tutur."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "aşağı",
+   "basliq": "Fors-major bəndinin olmaması",
+   "madde_no": null,
+   "izah": "Müqavilədə fors-major (dünyəvi qüvvə) halları və tərəflərin bu zaman öhdəlikləri tənzimlənməyib.",
+   "teklif": "Tərəflər öz öhdəliklərini qeyri-müqavilə xarakterli, tərəflərin iradəsindən asılı olmayan və öncədən görünməyən hallar (təbii fəlakətlər, müharibə, pandemiya və s.) səbəbindən yerinə yetirə bilmədikdə, məsuliyyətdən azad tutulurlar. Bu hallar sənədlə təsdiq edilməlidir.",
+   "guzest": "",
+   "arqument": "Fors-major bəndi hər iki tərəfi gözlənilməz və ciddi risklərdən qorumaq üçün standart hüquqi tələbdir."
+  }
+ ]
+}

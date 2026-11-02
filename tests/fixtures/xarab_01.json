@@ -1,0 +1,249 @@
+{
+ "emlak_novu": "yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "Məmmədov Elçin Rauf oğlu, Ş/V AZE 12345678",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "Həsənova Aynur Vaqif qızı, Ş/V AZE 87654321",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "Bakı şəhəri, Nəsimi rayonu, S. Vurğun küçəsi 45, mənzil 12, 2 otaqlı, 68 kv.m, yaşayış",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "800 manat, hər ayın 5-dək nağd qaydada",
+   "bend_no": "3.1, 3.2"
+  },
+  "teminat": {
+   "deyer": "2400 manat (3 aylıq haqq)",
+   "bend_no": "3.3"
+  },
+  "muddet": {
+   "deyer": "1 sentyabr 2026-cı il tarixdən 31 avqust 2027-ci il tarixədək",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "İcarəyə verən tərəfindən istənilən vaxt, səbəbsiz və xəbərdarlıqsız",
+   "bend_no": "5.1"
+  },
+  "baslangic_tarixi": "2026-09-01",
+  "bitme_tarixi": "2027-08-31",
+  "odenis_gunu": 5
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": true,
+   "bend_no": "4.6"
+  },
+  {
+   "movzu": "Təmir",
+   "var": true,
+   "bend_no": "4.1"
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.1"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": true,
+   "bend_no": "4.4"
+  },
+  {
+   "movzu": "Fors-major",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": false,
+   "bend_no": null
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "3.3",
+   "risk": "orta",
+   "basliq": "Həddindən artıq təminat pulu",
+   "madde_no": "688.2",
+   "izah": "Yaşayış sahəsinin kirayəsində təminat məbləği 2 aylıq haqqdan çox ola bilməz. Müqavilədə 3 aylıq təminat tələb olunub və faizsiz qaytarılma şərti qanuna ziddir.",
+   "teklif": "İcarəçi müqavilə imzalanarkən İcarəyə verənə 2 (iki) aylıq icarə haqqı məbləğində, yəni 1600 manat təminat pulu ödəyir. İcarəyə verən həmin məbləği bankda öz kapitalından ayrılıqda, saxlama müddəti qanunla müəyyənləşdirilmiş əmanətlər üçün adi olan faizlər ilə yerləşdirməlidir. Faizlər İcarəçiyə mənsubdur və öhdəliyin təminatının artmasına xidmət edir.",
+   "guzest": "İcarəçi müqavilə imzalanarkən İcarəyə verənə 2 (iki) aylıq icarə haqqı məbləğində, yəni 1600 manat təminat pulu ödəyir. Təminat pulu müqavilənin sonunda geri qaytarılır.",
+   "arqument": "Mülki Məcəllənin 688.2-ci maddəsinə əsasən, yaşayış sahəsinin kirayəsində təminat məbləği 2 aylıq haqqdan artıq ola bilməz."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "3.4",
+   "risk": "orta",
+   "basliq": "Qanunla qadağan edilmiş dəbbə pulu",
+   "madde_no": "688.4",
+   "izah": "Yaşayış otağının kirayəsi müqaviləsində kirayəçidən dəbbə pulu tələb etmək qəti qadağandır.",
+   "teklif": "",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 688.4-cü maddəsi yaşayış sahəsinin kirayəsində dəbbə pulunun alınmasını qanunla qadağan edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.2",
+   "risk": "kritik",
+   "basliq": "Qüsur üzrə məsuliyyətin istisna edilməsi",
+   "madde_no": "677.1.1",
+   "izah": "Yaşayış sahəsinin kirayəsində əmlakın qüsuru olduqda kirayə haqqının tam ödənilməsi şərti qanuna ziddir. Kirayəçi yararlılığın azaldığı müddət üçün haqqı ödəməkdən azad edilməlidir.",
+   "teklif": "Mənzilin müqaviləyə uyğunsuzluğu nəticəsində onun istifadəyə yararlılığı azaldıqda, İcarəçi yararlılığın azaldığı müddət üçün yalnız icarə haqqının bir hissəsini ödəməyə borclu olur. Əgər mənzil tamamilə yararsız hala düşərsə, İcarəçi həmin müddət üçün icarə haqqını ödəməkdən azad edilir.",
+   "guzest": "Mənzildə ciddi qüsur aşkar edildikdə və İcarəyə verən onu vaxtında aradan qaldırmadıqda, tərəflər icarə haqqının müvafiq nisbətdə azaldılmasını razılaşdırırlar.",
+   "arqument": "Mülki Məcəllənin 677.1.1-ci maddəsi yaşayış sahəsinin kirayəsində kirayəçinin ziyanına olan bu cür kənaraçıxmaları qəbu l etmir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.3",
+   "risk": "orta",
+   "basliq": "Qurğuları götürmək hüququnun pozulması",
+   "madde_no": "681",
+   "izah": "Yaşayış sahəsinin kirayəçisinin öz quraşdırdığı qurğuları götürmək hüququnu istisna edən razılaşmanın qüvvəsi yoxdur.",
+   "teklif": "İcarəçi mənzilə quraşdırdığı avadanlıq və qurğuları müqavilə bitdikdən sonra götürmək hüququna malikdir.",
+   "guzest": "İcarəçi mənzilə quraşdırdığı avadanlıq və qurğuları götürərkən mənzilə dəymiş zərərləri bərpa etmək öhdəliyi götürür.",
+   "arqument": "Mülki Məcəllənin 681-ci maddəsi kirayəçinin qurğuları götürmək hüququnu imperativ xarakterdə qoruyur."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.1",
+   "risk": "kritik",
+   "basliq": "Səbəbsiz və dərhal ləğv hüququ",
+   "madde_no": "687",
+   "izah": "Yaşayış sahəsinin kirayəsində İcarəyə verənə qanunla nəzərdə tutulmayan əsaslarla (səbəbsiz, xəbərdarlıqsız) dərhal ləğv hüququ vermək qadağandır.",
+   "teklif": "Müqavilənin ləğvi yalnız Mülki Məcəllənin 691 və 692-ci maddələrində nəzərdə tutulmuş əsaslarla və müvafiq xəbərdarlıq müddətləri gözlənilməklə həyata keçirilə bilər.",
+   "guzest": "İcarəyə verən əsaslı marağı olduğu təqdirdə, icarəçiyə ən azı 30 gün öncədən yazılı bildiriş verməklə müqaviləni ləğv edə bilər.",
+   "arqument": "Mülki Məcəllənin 687-ci maddəsi yaşayış sahəsinin kirayəsində qanunsuz dərhal ləğv şərtlərini qüvvəsiz sayır."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.3",
+   "risk": "kritik",
+   "basliq": "Həddindən artıq sərt ləğv şərti",
+   "madde_no": "687",
+   "izah": "3 günlük gecikməyə görə avtomatik ləğv yaşayış sahəsinin kirayəsində qadağandır. Ləğv üçün 2 ardıcıl müddət gecikməsi və ya xeyli məbləğdə borc lazımdır (685.2).",
+   "teklif": "İcarəçi iki ardıcıl ödəniş müddətini gecikdirdiyi halda, İcarəyə verən müqaviləni ləğv edə bilər.",
+   "guzest": "İcarə haqqının ödənilməsi 15 gün gecikdirildikdə, İcarəyə verən müqaviləni ləğv etmək hüququna malikdir.",
+   "arqument": "Mülki Məcəllənin 687 və 685.2-ci maddələri yaşayış sahəsinin kirayəsində ödəniş gecikməsinə görə dərhal ləğvi məhdudlaşdırır."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.4",
+   "risk": "kritik",
+   "basliq": "Satış zamanı avtomatik xitam",
+   "madde_no": "687",
+   "izah": "Yaşayış sahəsi satıldıqda müqavilənin avtomatik bitməsi şərti qanuna ziddir. Yeni mülkiyyətçi müqavilənin tərəfi olur (699.1).",
+   "teklif": "",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 687-ci maddəsi əmlak satıldıqda müqavilənin xitamı şərtini qadağan edir; 699.1-ci maddəyə görə yeni mülkiyyətçi müqaviləni davam etdirir."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "3.5",
+   "risk": "orta",
+   "basliq": "Sərsiz icarə haqqı artımı",
+   "madde_no": null,
+   "izah": "İcarə haqqının istənilən vaxt birtərəfli artırılması İcarəçinin maraqlarına ciddi ziyan vurur və maliyyə qeyri-müəyyənliyi yaradır.",
+   "teklif": "İcarə haqqı müqavilə müddəti ərzində sabit qalır. İcarə haqqının artırılması yalnız tərəflərin qarşılıqlı yazılı razılığı ilə və ildə bir dəfədən çox olmayaraq, inflyasiya dərəcəsini keçməmək şərtilə həyata keçirilə bilər.",
+   "guzest": "İcarə haqqı hər 6 aydan bir tərəflərin razılığı ilə yenidən baxıla bilər.",
+   "arqument": "Müqavilənin balanslı olması üçün ödənişlərin sabitliyi və ya artım mexanizminin şəffaflığı vacibdir."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "4.1",
+   "risk": "kritik",
+   "basliq": "Əsaslı təmirin İcarəçiyə yüklənməsi",
+   "madde_no": "680.1",
+   "izah": "Əsaslı təmir normalda İcarəyə verənin öhdəliyidir. Bunun İcarəçiyə yüklənməsi qanuni olsa da, çox birtərəflidir.",
+   "teklif": "Cari təmir işləri İcarəçi tərəfindən, əsaslı təmir isə İcarəyə verən tərəfindən həyata keçirilir.",
+   "guzest": "İcarəçi əsaslı təmir işlərini həyata keçirdikdə, xərclər icarə haqqından tutulur və ya İcarəyə verən tərəfindən kompensasiya edilir.",
+   "arqument": "Əmlakın struktur təmirinə görə məsuliyyət mülkiyyətçiyə aid olmalıdır."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "4.4",
+   "risk": "orta",
+   "basliq": "Təbii köhnəlməyə görə məsuliyyət",
+   "madde_no": "682",
+   "izah": "Qanun kirayəçini adi istifadədən yaranan köhnəlməyə görə məsuliyyətdən azad edir. Mənzili 'yeni təmirli' qaytarmaq tələbi qeyri-real və ziyanlıdır.",
+   "teklif": "İcarəçi mənzili təhvil aldığı vəziyyətdə, adi istifadədən yaranan təbii köhnəlmələr istisna olmaqla, qaytarmalıdır.",
+   "guzest": "İcarəçi mənzili təmiz və istifadəyə yararlı vəziyyətdə qaytarmalıdır.",
+   "arqument": "Mülki Məcəllənin 682-ci maddəsinə görə, kirayəçi adi istifadədən yaranan pisləşməyə görə məsuliyyət daşımır."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "4.5",
+   "risk": "orta",
+   "basliq": "Xəbərdarlıqsız yoxlama hüququ",
+   "madde_no": null,
+   "izah": "İcarəçinin şəxsi həyatının toxunulmazlığına və istifadə hüququna ziddir.",
+   "teklif": "İcarəyə verən mənzili yalnız İcarəçinin razılığı ilə və ən azı 24 saat öncədən xəbərdarlıq etməklə, həftədə bir dəfədən çox olmayaraq yoxlaya bilər.",
+   "guzest": "İcarəyə verən ayda bir dəfə, tərəflərin razılaşdırdığı gündə mənzili yoxlaya bilər.",
+   "arqument": "İcarəçinin mənzildəki istifadə hüququ onun şəxsi məxfiliyini də əhatə edir."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "5.2",
+   "risk": "orta",
+   "basliq": "Təminatın qaytarılmaması şərti",
+   "madde_no": null,
+   "izah": "Təminat pulu zərərlərin ödənilməsi üçündür, cərimə vasitəsi kimi istifadəsi İcarəçinin ziyanınadır.",
+   "teklif": "Müqavilə vaxtından əvvəl ləğv edildikdə, təminat pulu mənzildəki zərərlər və ödənilməmiş borclar çıxıldıqdan sonra İcarəçiyə qaytarılır.",
+   "guzest": "İcarəçi 30 gün öncədən bildiriş verdiyi təqdirdə, təminat pulu geri qaytarılır.",
+   "arqument": "Təminat pulu yalnız real zərərlərin kompensasiyası üçün nəzərdə tutulmalıdır."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "orta",
+   "basliq": "Təhvil-təslim aktının olmaması",
+   "madde_no": "677.2",
+   "izah": "Mənzilin təhvil verildiyi andakı vəziyyətini təsbit edən akt yoxdur. Bu, müqavilə sonunda 'yeni təmirli qaytarma' tələbi ilə bağlı mübahisə riskini artırır.",
+   "teklif": "Mənzil İcarəçiyə təhvil-təslim aktı əsasında təhvil verilir. Aktda mənzilin vəziyyəti, mövcud qüsurlar və avadanlıqların siyahısı qeyd edilir.",
+   "guzest": "",
+   "arqument": "Təhvil-təslim aktı hər iki tərəfin məsuliyyətini dəqiq müəyyən etmək üçün zəruridir."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "aşağı",
+   "basliq": "Fors-major və Mübahisələrin həlli",
+   "madde_no": null,
+   "izah": "Müqavilədə fors-major və mübahisələrin həlli mexanizmləri nəzərdə tutulmayıb.",
+   "teklif": "Tərəflər müqavilə üzrə yaranan mübahisələri danışıqlar yolu ilə, razılıq əldə edilmədikdə isə Bakı şəhər məhkəməsinə müraciət etməklə həll edirlər. Heç bir tərəf öz öhdəliklərini təbii fəlakət, müharibə və s. (fors-major) səbəbindən yerinə yetirə bilmədikdə, bu, məsuliyyəti istisna edir.",
+   "guzest": "",
+   "arqument": "Bu bəndlər müqavilənin standart hüquqi strukturunu tamamlayır və riskləri idarə edir."
+  }
+ ]
+}

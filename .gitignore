@@ -1,0 +1,15 @@
+.env
+.venv/
+chroma_db/
+__pycache__/
+*.pyc
+.DS_Store
+graft/
+output/
+.cache/
+data/law/mulki_mecelle.docx
+.streamlit/secrets.toml
+.pytest_cache/
+.ruff_cache/
+.ignore
+CLAUDE.md

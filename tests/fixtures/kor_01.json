@@ -1,0 +1,194 @@
+{
+ "emlak_novu": "yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "Hüseynov Tural Elman oğlu, ŞV AZE 55667788",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "Əsgərova Nigar Faiq qızı, ŞV AZE 88776655",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "Sumqayıt şəhəri, 9-cu mikrorayon, bina 14, mənzil 27, 82 kv.m, yaşayış",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "600 manat, hər ayın 10-dək",
+   "bend_no": "3.1"
+  },
+  "teminat": {
+   "deyer": "600 manat",
+   "bend_no": "3.3"
+  },
+  "muddet": {
+   "deyer": "2 il",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "İcarəyə verən 10 gün əvvəl bildirişlə istənilən səbəbdən ləğv edə bilər",
+   "bend_no": "5.1"
+  },
+  "baslangic_tarixi": "2026-09-10",
+  "bitme_tarixi": null,
+  "odenis_gunu": 10
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": true,
+   "bend_no": "1.2"
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Təmir",
+   "var": true,
+   "bend_no": "4.3"
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.1"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": true,
+   "bend_no": "5.3"
+  },
+  {
+   "movzu": "Fors-major",
+   "var": true,
+   "bend_no": "6.1"
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": false,
+   "bend_no": null
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "3.2",
+   "risk": "kritik",
+   "basliq": "Qanunsuz bron haqqı şərti",
+   "madde_no": "688.1",
+   "izah": "Yaşayış otaqlarının kirayəsində bron haqqının geri qaytarılmaması və icarə haqqına daxil edilməməsi 688.1 və 688.3 maddələrinə ziddir.",
+   "teklif": "İcarəçi mənzili bron etmək üçün 3 (üç) aylıq icarə haqqı məbləğində bron haqqı ödəyib. Müqavilə bağlandıqda həmin məbləğ ilk ayların icarə haqqının hesabına daxil edilir. Müqavilə bağlanmadıqda məbləğ tam geri qaytarılır.",
+   "guzest": "İcarəçi mənzili bron etmək üçün bron haqqı ödəyib. Müqavilə bağlandıqda bu məbləğ icarə haqqının hesabına daxil edilir.",
+   "arqument": "Mülki Məcəllənin 688-ci maddəsinə əsasən, yaşayış otaqlarının kirayəsində bron haqqının qaytarılmaması və ya icarə haqqına aid edilməməsi qanunla qadağandır."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.1",
+   "risk": "orta",
+   "basliq": "Məsuliyyətdən qanunsuz azad olma",
+   "madde_no": "677.4",
+   "izah": "İcarəyə verənin qüsurları barədə məsuliyyəti tamamilə istisna edən şərt imperativ normaya ziddir.",
+   "teklif": "Mənzil olduğu kimi verilir. İcarəyə verən mənzilin yararlı vəziyyətdə olması üçün cavabdehdir və qanunvericiliklə nəzərdə tutulmuş məsuliyyəti daşıyır.",
+   "guzest": "Mənzil olduğu kimi verilir. İcarəyə verən mənzildəki gizlədilməmiş qüsurlara görə məsuliyyət daşımır.",
+   "arqument": "Mülki Məcəllənin 677.4 maddəsi kirayəyə verənin qüsurlara görə məsuliyyətini məhdudlaşdıran razılaşmaların qüvvəsiz olduğunu müəyyən edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.2",
+   "risk": "kritik",
+   "basliq": "Vərəsələrin hüquqlarının pozulması",
+   "madde_no": "695",
+   "izah": "İcarəçi vəfat etdikdə ailə üzvlərinin müqaviləni davam etdirmək hüququ qanunla qorunur, 3 günə boşaltma tələbi qanunsuzdur.",
+   "teklif": "İcarəçi vəfat etdikdə, Mülki Məcəllənin 695-ci maddəsinə uyğun olaraq, müqavilə üzrə hüquq münasibətləri onun ailə üzvləri və ya vərəsələri ilə davam etdirilir.",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 695-ci maddəsi kirayəçinin vəfatı halında ailə üzvlərinin və vərəsələrin müqaviləni davam etdirmək hüququnu təmin edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.4",
+   "risk": "orta",
+   "basliq": "Subicarə hüququnun qanunsuz məhdudlaşdırılması",
+   "madde_no": "683.2",
+   "izah": "Yaşayış otağının bir hissəsini üçüncü şəxsə vermək hüququnu və icazə istəmək imkanını tamamilə ləğv etmək qanuna ziddir.",
+   "teklif": "İcarəçi mənzilin bir hissəsini üçüncü şəxslərə istifadəyə vermək üçün İcarəyə verənin razılığını ala bilər. İcarəyə verən əsaslı səbəblər olmadan imtina edə bilməz.",
+   "guzest": "İcarəçi mənzili üçüncü şəxslərə istifadəyə yalnız İcarəyə verənin yazılı razılığı ilə verə bilər.",
+   "arqument": "Mülki Məcəllənin 683.2 maddəsi yaşayış otağının bir hissəsinin istifadəsinə dair kirayəçinin müraciət hüququnu qoruyur."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.1",
+   "risk": "kritik",
+   "basliq": "Səbəbsiz və qısa müddətli ləğv",
+   "madde_no": "687",
+   "izah": "Yaşayış otağının kirayəsində icarəyə verənə səbəbsiz və 10 günlük bildirişlə ləğv hüququ vermək 687-ci maddəyə ziddir.",
+   "teklif": "İcarəyə verən müqaviləni yalnız qanunda nəzərdə tutulmuş əsaslarla və Mülki Məcəllənin 691.2 maddəsində müəyyən edilmiş xəbərdarlıq müddətlərini gözləməklə ləğv edə bilər.",
+   "guzest": "İcarəyə verən müqaviləni əsaslı marağı olduğu təqdirdə, ən azı 2 ay əvvəl yazılı bildiriş verməklə ləğv edə bilər.",
+   "arqument": "Mülki Məcəllənin 687-ci maddəsi yaşayış otaqlarının kirayəsində qanunla nəzərdə tutulmayan əsaslarla dərhal ləğv etmək hüququnu qadağan edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.2",
+   "risk": "kritik",
+   "basliq": "Məhkəməyə müraciət hüququnun məhdudlaşdırılması",
+   "madde_no": "696",
+   "izah": "Kirayəçinin ləğvə etiraz etmək və məhkəməyə müraciət hüququndan imtina etməsi 696-cı maddəyə ziddir və qüvvəsizdir.",
+   "teklif": "",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 696.7 maddəsinə görə, kirayəçinin şikayət və etiraz hüququnu istisna edən razılaşmaların qüvvəsi yoxdur. Bu bənd tamamilə silinməlidir."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "3.4",
+   "risk": "orta",
+   "basliq": "Həddindən artıq yüksək cərimə",
+   "madde_no": null,
+   "izah": "Gecikməyə görə gündə 5% cərimə (ayda 150%) bazar standartlarından çox yüksəkdir və icarəçinin ziyanınadır.",
+   "teklif": "İcarə haqqının ödənilməsi gecikdikdə İcarəçi hər gecikmə günü üçün gecikmiş məbləğin 0.1%-i miqdarında cərimə ödəyir.",
+   "guzest": "İcarə haqqının ödənilməsi gecikdikdə İcarəçi hər gecikmə günü üçün aylıq haqqın 0.5% miqdarında cərimə ödəyir.",
+   "arqument": "Təklif olunan cərimə məbləği mütənasibdir və tərəflər arasında balans yaradır."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "orta",
+   "basliq": "Kommunal xərclərin bölüşdürülməsi",
+   "madde_no": "679",
+   "izah": "Kommunal xərclərin və vergilərin kim tərəfindən ödəniləcəyi müəyyən edilməyib, bu da gələcəkdə mübahisə riski yaradır.",
+   "teklif": "Mənzilin istifadəsi ilə bağlı bütün kommunal xərclər (işıq, su, qaz, bina xidmətləri) İcarəçi tərəfindən ödənilir. Dövlət və yerli vergilər İcarəyə verən tərəfindən ödənilir.",
+   "guzest": "Kommunal xərclər faktiki istifadəyə görə İcarəçi tərəfindən ödənilir.",
+   "arqument": "Xərclərin bölüşdürülməsinin dəqiq müəyyən edilməsi tərəflərin hüquqlarını qorumaq üçün zəruridir."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "aşağı",
+   "basliq": "Mübahisələrin həlli mexanizmi",
+   "madde_no": null,
+   "izah": "Müqavilədə mübahisələrin həlli və məhkəmənin səlahiyyəti barədə bənd yoxdur.",
+   "teklif": "Bu müqavilə üzrə yaranan bütün mübahisələr tərəflər arasında danışıqlar yolu ilə, razılıq əldə edilmədikdə isə Azərbaycan Respublikasının müvafiq məhkəmələri tərəfindən baxılır.",
+   "guzest": "",
+   "arqument": "Mübahisələrin həlli qaydasının olması hüquqi qeyri-müəyyənliyi aradan qaldırır."
+  }
+ ]
+}

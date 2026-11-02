@@ -1,0 +1,172 @@
+{
+ "emlak_novu": "yaşayış",
+ "xulase": {
+  "icareye_veren": {
+   "deyer": "Гасанов Руслан Эльдар оглы, AZE 11112222",
+   "bend_no": "Başlıq"
+  },
+  "icareci": {
+   "deyer": "Мамедова Лейла Азер гызы, AZE 33334444",
+   "bend_no": "Başlıq"
+  },
+  "emlak": {
+   "deyer": "г. Баку, Хатаинский район, ул. Хагани Рустамова, дом 8, квартира 15, 64 кв.м, жилое",
+   "bend_no": "1.1"
+  },
+  "icare_haqqi": {
+   "deyer": "900 манатов, до 5 числа каждого месяца",
+   "bend_no": "3.1"
+  },
+  "teminat": {
+   "deyer": "2700 манатов",
+   "bend_no": "3.2"
+  },
+  "muddet": {
+   "deyer": "с 1 октября 2026 года по 30 сентября 2027 года",
+   "bend_no": "2.1"
+  },
+  "legvetme": {
+   "deyer": "Арендодатель вправе расторгнуть в любое время, уведомив за 3 дня",
+   "bend_no": "5.1"
+  },
+  "baslangic_tarixi": "2026-10-01",
+  "bitme_tarixi": "2027-09-30",
+  "odenis_gunu": 5
+ },
+ "siyahi": [
+  {
+   "movzu": "Tərəflər",
+   "var": true,
+   "bend_no": "Başlıq"
+  },
+  {
+   "movzu": "Predmet",
+   "var": true,
+   "bend_no": "1.1"
+  },
+  {
+   "movzu": "İcarə haqqı",
+   "var": true,
+   "bend_no": "3.1"
+  },
+  {
+   "movzu": "Müddət",
+   "var": true,
+   "bend_no": "2.1"
+  },
+  {
+   "movzu": "Təhvil-təslim",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Kommunal xərclər və vergilər",
+   "var": true,
+   "bend_no": "4.3"
+  },
+  {
+   "movzu": "Təmir",
+   "var": true,
+   "bend_no": "4.1"
+  },
+  {
+   "movzu": "Ləğvetmə qaydası",
+   "var": true,
+   "bend_no": "5.1"
+  },
+  {
+   "movzu": "Əmlakın qaytarılması",
+   "var": true,
+   "bend_no": "5.3"
+  },
+  {
+   "movzu": "Fors-major",
+   "var": false,
+   "bend_no": null
+  },
+  {
+   "movzu": "Mübahisələrin həlli",
+   "var": false,
+   "bend_no": null
+  }
+ ],
+ "tapintilar": [
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "3.2",
+   "risk": "orta",
+   "basliq": "Təminat məbləğinin həddi",
+   "madde_no": "688.2",
+   "izah": "Yaşayış sahələri üçün təminat 2 aylıq haqqdan çox ola bilməz, burada isə 3 ay təyin edilib.",
+   "teklif": "Арендатор вносит обеспечительный платеж в размере двухмесячной арендной платы (1800 манатов), который хранится Арендодателем на банковском счете отдельно от его собственных средств с начислением процентов, принадлежащих Арендатору.",
+   "guzest": "Арендатор вносит обеспечительный платеж в размере двухмесячной арендной платы (1800 манатов), который возвращается по окончании договора.",
+   "arqument": "Mülki Məcəllənin 688.2 maddəsinə əsasən, təminat məbləği iki aylıq kirayə haqqından artıq ola bilməz."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "3.3",
+   "risk": "kritik",
+   "basliq": "İcarə haqqının sərbəst artırılması",
+   "madde_no": null,
+   "izah": "İcarəyə verənə heç bir məhdudiyyət olmadan haqqı artırmaq hüququ verilir, bu isə icarəçinin büdcəsinə ciddi riskdir.",
+   "teklif": "",
+   "guzest": "Арендодатель вправе изменить размер арендной платы один раз в год, уведомив Арендатора за 30 дней, при этом увеличение не может превышать 10% от текущей суммы.",
+   "arqument": "Haqqın istənilən vaxt və istənilən məbləğdə artırılması müqavilənin sabitliyini pozur və ədalətsizdir."
+  },
+  {
+   "tip": "birterefli",
+   "bend_no": "4.1",
+   "risk": "kritik",
+   "basliq": "Əsaslı təmirin icarəçiyə yüklənməsi",
+   "madde_no": "676",
+   "izah": "Əsaslı təmir mülkiyyətçinin öhdəliyidir. Bütün təmir xərclərinin icarəçiyə yüklənməsi qanuni standartdan kənardır.",
+   "teklif": "Текущий ремонт квартиры осуществляется Арендатором. Капитальный ремонт является обязанностью Арендодателя.",
+   "guzest": "Текущий ремонт осуществляется Арендатором. В случае необходимости капитального ремонта, стороны согласовывают порядок распределения расходов в дополнительном соглашении.",
+   "arqument": "Mülki Məcəllənin 676-cı maddəsinə görə, əmlakın yararlı vəziyyətdə saxlanılması və əsaslı təmir mülkiyyətçinin öhdəliyidir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "4.2",
+   "risk": "orta",
+   "basliq": "Qurğuları götürmək hüququnun məhdudlaşdırılması",
+   "madde_no": "681",
+   "izah": "Yaşayış sahəsində kirayəçinin öz quraşdırdığı avadanlıqları götürmək hüququnu istisna edən razılaşma qüvvəsizdir.",
+   "teklif": "Арендатор имеет право забрать установленное им оборудование по окончании договора, при условии восстановления первоначального состояния помещения.",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 681-ci maddəsi kirayəçinin öz qurğularını götürmək hüququnu qəti şəkildə qoruyur."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.1",
+   "risk": "kritik",
+   "basliq": "Səbəbsiz və qısa müddətli ləğv",
+   "madde_no": "687",
+   "izah": "Yaşayış sahəsində icarəyə verənə səbəbsiz və 3 gün kimi qısa müddətlə ləğv hüququ vermək qanuna ziddir.",
+   "teklif": "Арендодатель вправе расторгнуть договор в случаях, предусмотренных законом, уведомив Арендатора в порядке, установленном статьей 691 ГК АР.",
+   "guzest": "Арендодатель вправе расторгнуть договор, уведомив Арендатора за 30 календарных дней.",
+   "arqument": "Mülki Məcəllənin 687-ci maddəsi yaşayış sahələrində qanunda nəzərdə tutulmayan əsaslarla dərhal ləğv etməyi qadağan edir."
+  },
+  {
+   "tip": "qanuna_zidd",
+   "bend_no": "5.2",
+   "risk": "kritik",
+   "basliq": "Satış zamanı avtomatik xitam",
+   "madde_no": "687",
+   "izah": "Əmlakın satılması yaşayış sahəsinin icarə müqaviləsinin xitamı üçün qanuni əsas deyil.",
+   "teklif": "",
+   "guzest": "",
+   "arqument": "Mülki Məcəllənin 687 və 699.1 maddələrinə görə, əmlak satıldıqda müqavilə davam edir və yeni mülkiyyətçi müqavilənin tərəfi olur."
+  },
+  {
+   "tip": "catismayan",
+   "bend_no": null,
+   "risk": "orta",
+   "basliq": "Təhvil-təslim aktının olmaması",
+   "madde_no": "677.2",
+   "izah": "Əmlakın vəziyyətini təsbit edən akt yoxdur, bu da gələcəkdə təminatın qaytarılması zamanı mübahisə yaradır.",
+   "teklif": "Передача квартиры Арендатору осуществляется по Акту приема-передачи, в котором фиксируется техническое состояние помещения и перечень находящегося в нем имущества.",
+   "guzest": "",
+   "arqument": "Aktın olması həm icarəçini, həm də icarəyə verəni əmlakın vəziyyəti ilə bağlı qeyri-dəqiqliklərdən qoruyur."
+  }
+ ]
+}

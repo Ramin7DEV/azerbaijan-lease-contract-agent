@@ -1,0 +1,7 @@
+[server]
+# E-poçt sualını keçir. Brauzeri özün aç: http://localhost:8501
+headless = true
+maxUploadSize = 10  # MB
+
+[browser]
+gatherUsageStats = false

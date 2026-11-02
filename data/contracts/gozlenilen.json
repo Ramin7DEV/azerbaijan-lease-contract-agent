@@ -1,0 +1,206 @@
+{
+  "_izah": "Test müqavilələri üçün düzgün cavablar (scripts/evaluate.py oxuyur). expected — mütləq tapılmalı bəndlər və gözlənilən tip (null = hər iki tip qəbuledilən); acceptable — tapılsa səhv sayılmır; traps — normal bəndlər, tapılsa səhvdir; missing — yoxlama siyahısında 'yoxdur' olmalı mövzular. kor_01 — kor test: prompt təkmilləşdirilərkən istifadə olunmayıb.",
+  "xarab_01.docx": {
+    "emlak_novu": "yaşayış",
+    "expected": {
+      "3.3": "qanuna_zidd",
+      "3.4": "qanuna_zidd",
+      "3.5": "birterefli",
+      "4.1": "birterefli",
+      "4.2": "qanuna_zidd",
+      "4.3": "qanuna_zidd",
+      "4.4": "birterefli",
+      "4.5": "birterefli",
+      "5.1": "qanuna_zidd",
+      "5.2": "birterefli",
+      "5.3": "qanuna_zidd",
+      "5.4": "qanuna_zidd"
+    },
+    "acceptable": [],
+    "traps": [
+      "1.1",
+      "1.2",
+      "2.1",
+      "3.1",
+      "3.2",
+      "4.6",
+      "6.1"
+    ],
+    "missing": [
+      "Təhvil-təslim",
+      "Fors-major",
+      "Mübahisələrin həlli"
+    ]
+  },
+  "xarab_01_avto.docx": {
+    "emlak_novu": "yaşayış",
+    "expected": {
+      "3.3": "qanuna_zidd",
+      "3.4": "qanuna_zidd",
+      "3.5": "birterefli",
+      "4.1": "birterefli",
+      "4.2": "qanuna_zidd",
+      "4.3": "qanuna_zidd",
+      "4.4": "birterefli",
+      "4.5": "birterefli",
+      "5.1": "qanuna_zidd",
+      "5.2": "birterefli",
+      "5.3": "qanuna_zidd",
+      "5.4": "qanuna_zidd"
+    },
+    "acceptable": [],
+    "traps": [
+      "1.1",
+      "1.2",
+      "2.1",
+      "3.1",
+      "3.2",
+      "4.6"
+    ],
+    "missing": [
+      "Təhvil-təslim",
+      "Fors-major",
+      "Mübahisələrin həlli"
+    ]
+  },
+  "ofis_01.txt": {
+    "emlak_novu": "qeyri-yaşayış",
+    "expected": {
+      "3.3": "birterefli",
+      "3.4": "birterefli",
+      "4.3": "qanuna_zidd",
+      "5.1": null,
+      "5.2": "birterefli",
+      "5.3": "birterefli"
+    },
+    "acceptable": [
+      "4.1",
+      "4.2",
+      "6.1"
+    ],
+    "traps": [
+      "1.1",
+      "1.2",
+      "2.1",
+      "3.1",
+      "3.2",
+      "4.4",
+      "4.5"
+    ],
+    "missing": [
+      "Fors-major"
+    ]
+  },
+  "temiz_01.txt": {
+    "emlak_novu": "yaşayış",
+    "expected": {},
+    "acceptable": [
+      "4.4",
+      "4.5"
+    ],
+    "traps": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "2.1",
+      "3.1",
+      "3.2",
+      "3.3",
+      "3.4",
+      "4.1",
+      "4.2",
+      "4.3",
+      "4.6",
+      "5.1",
+      "5.2",
+      "5.3",
+      "5.4",
+      "6.1",
+      "7.1",
+      "8.1"
+    ],
+    "missing": []
+  },
+  "kor_01.txt": {
+    "emlak_novu": "yaşayış",
+    "expected": {
+      "3.2": "qanuna_zidd",
+      "3.4": "birterefli",
+      "4.1": null,
+      "4.2": "qanuna_zidd",
+      "4.4": null,
+      "5.1": "qanuna_zidd",
+      "5.2": "qanuna_zidd"
+    },
+    "acceptable": [
+      "2.1",
+      "3.1"
+    ],
+    "traps": [
+      "1.1",
+      "1.2",
+      "3.3",
+      "4.3",
+      "5.3",
+      "6.1",
+      "7.1"
+    ],
+    "missing": [
+      "Kommunal xərclər və vergilər",
+      "Mübahisələrin həlli"
+    ]
+  },
+  "ru_01.txt": {
+    "emlak_novu": "yaşayış",
+    "dil": "ru",
+    "expected": {
+      "3.2": "qanuna_zidd",
+      "3.3": "birterefli",
+      "4.1": "birterefli",
+      "4.2": "qanuna_zidd",
+      "5.1": "qanuna_zidd",
+      "5.2": "qanuna_zidd"
+    },
+    "acceptable": [
+      "2.1",
+      "3.1",
+      "5.3"
+    ],
+    "traps": [
+      "1.1",
+      "4.3",
+      "6.1"
+    ],
+    "missing": [
+      "Təhvil-təslim",
+      "Fors-major",
+      "Mübahisələrin həlli"
+    ]
+  },
+  "en_01.txt": {
+    "emlak_novu": "qeyri-yaşayış",
+    "dil": "en",
+    "expected": {
+      "3.2": "birterefli",
+      "3.3": "birterefli",
+      "4.2": "qanuna_zidd",
+      "5.1": null,
+      "5.2": "birterefli",
+      "5.3": "birterefli"
+    },
+    "acceptable": [
+      "1.2",
+      "2.1"
+    ],
+    "traps": [
+      "1.1",
+      "3.1",
+      "4.1",
+      "4.3",
+      "6.1"
+    ],
+    "missing": [
+      "Fors-major"
+    ]
+  }
+}
