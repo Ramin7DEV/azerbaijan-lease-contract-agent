@@ -4,6 +4,8 @@
 
 > **EN:** An AI agent that reviews Azerbaijani lease agreements against the Civil Code, verifies every legal citation against the statute text, and returns a redlined Word document with tracked changes and comments. Built on the open-weight Gemma 4 31B. Everything in the UI and output is in Azerbaijani.
 
+> **Status / Status:** 🚧 **İnkişaf mərhələsindədir (work in progress).** Əsas axın işləyir, amma layihə hələ real müqavilələrlə və hüquqşünas yoxlamasından keçməyib; funksiyalar və nəticələr dəyişə bilər. *The core flow works, but the project is still in development and has not yet been validated on real contracts or by a lawyer.*
+
 ---
 
 ## Problem
